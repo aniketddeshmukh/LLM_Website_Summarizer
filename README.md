@@ -10,8 +10,5 @@
 ## **System Prompt**  
 > *"You are an AI assistant that extracts key insights from web articles and presents concise summaries. Keep the summaries informative and easy to understand."*  
 
-## **How It Works**  
-1. Enter a website link into the input field.  
-2. The model fetches and processes the webpage content.  
-3. A summarized version of the article is displayed.  
+
 
